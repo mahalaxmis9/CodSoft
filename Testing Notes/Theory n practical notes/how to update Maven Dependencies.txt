@@ -1,0 +1,2 @@
+how to update Maven Dependencies
+right click on project>maven>update project>click on force update of snapshots and Releases

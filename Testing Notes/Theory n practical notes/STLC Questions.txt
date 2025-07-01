@@ -1,0 +1,85 @@
+1.What is STLC?
+
+ 	*Software Testing Life Cycle (STLC) it is structare of activities to testing the software and 
+ 	*Its have a Entry and Exit criteria;
+
+2.Diff B/W SDLC and STLC?
+
+	*Software Development Life Cycle (SDLC) it is used to developing the software.
+	*Software Testing Life Cycle (STLC) it is used to testing the software
+		
+3.What are the Different Stages in STLC?
+
+	1.requirement Analysis
+	2.testing plan
+	3.Testing design
+	4.Testing Execution
+	5.sign-off or report
+
+4.What is entry criteria?
+
+	*The completion of  the exit criteria of the previous phase
+
+5.What is exit criteria?
+	*the deliverables of the previous phase have been completed.
+
+6.What will happen in Requirement Analysis Stage?
+	*Identify types of tests to be performed. 
+	*Gather details about testing priorities and focus.
+	*Prepare RTM
+        *Identify test environment
+	*Automation feasibility analysis
+
+	Entry Criteria: Contracts, BR Document
+	Exit Criteria: Finalized scope
+
+7.What is walkthrough?
+	*Here developer and tester to discuss about the defect in software
+	
+8.What is scoping?
+	*It is which one you want to test either inscope or outscope.
+
+9.What is the output of the Requirement Analysis Stage?
+	*Finalized scope and Application Access
+        
+10.What is Test Plan Document?
+	*Preparation of test plan/strategy document for various types of testing
+	*Test tool selection 
+	*Test effort estimation 
+	*Resource planning.
+
+11.What is Test Strategy Document?
+	*It's high level document noemally develop of QA lead.
+	
+12.What is the output of the Test Planning Stage?
+	*Test Strategy and test plan
+
+13.What is test case?
+	*Testcase is one time effort and since testcase can be reuse  during regression testing
+
+14.What is test scenario?
+	*Test scenatio need to be change to align with newly developed features.
+	
+15.What is RTM (Requirement Traceablility matrix) ?
+	*Mapping is regurement with testcase
+
+16.What are the different review available?
+	1.Peer review
+	2.Management review
+	3.Audit review
+17.What is the output of the Test Design Stage?
+	*Test Suite, Test Case, Test Data,RTM
+
+18.What are the different testing perfromed in test execution stage?
+	*Test Suite, Test Case, Test Data, test environment
+
+19.What is summary report?
+	*Its is executation of all the testcase report
+
+20.What is defect log?
+		
+21.What will be the output of test execution stage?
+	*Execution  Result and Defect Log
+
+22.What are the different signoff avaiable?
+			
